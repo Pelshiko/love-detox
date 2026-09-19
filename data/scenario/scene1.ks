@@ -39,7 +39,7 @@
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music.m4a"  ]
-[bg  time="1000"  method="crossfade"  storage="外観イメージ.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="gaikan.PNG"  ]
 [tb_start_text mode=1 ]
 あなたは番組スタッフの用意した車に揺られ施設までやってきた。[p]
 車を降りると、まず目に入ってきたのは一面の緑だった。[p]
