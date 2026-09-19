@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/倉庫.PNG"  ]
+[preload  storage="./data/fgimage/chara/1/女優１６.PNG"  ]
+[preload  storage="./data/fgimage/chara/1/女優v２.PNG"  ]
+[preload  storage="./data/fgimage/chara/1/女優１.PNG"  ]
+[preload  storage="./data/fgimage/chara/1/女優v１１.PNG"  ]
+[return]

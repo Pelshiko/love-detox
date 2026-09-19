@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/屋上　昼.PNG"  ]
+[preload  storage="./data/bgimage/屋上北側.PNG"  ]
+[preload  storage="./data/fgimage/chara/9/小説家６.PNG"  ]
+[preload  storage="./data/fgimage/chara/9/小説家１.PNG"  ]
+[return]

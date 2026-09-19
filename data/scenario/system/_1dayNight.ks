@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/リビングルーム.PNG"  ]
+[preload  storage="./data/bgimage/調理場.PNG"  ]
+[preload  storage="./data/fgimage/chara/6/料理人２.PNG"  ]
+[preload  storage="./data/fgimage/chara/6/料理人１.PNG"  ]
+[preload  storage="./data/fgimage/chara/4/漫画家３.PNG"  ]
+[preload  storage="./data/fgimage/chara/9/小説家５.PNG"  ]
+[return]

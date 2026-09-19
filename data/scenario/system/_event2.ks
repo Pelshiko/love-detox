@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/中庭夕１.PNG"  ]
+[preload  storage="./data/fgimage/chara/4/漫画家３.PNG"  ]
+[preload  storage="./data/fgimage/chara/2/医師２.PNG"  ]
+[preload  storage="./data/bgimage/中庭夜１.PNG"  ]
+[preload  storage="./data/bgimage/寝室夜.PNG"  ]
+[preload  storage="./data/bgimage/黒画面.PNG"  ]
+[preload  storage="./data/bgimage/寝室朝.PNG"  ]
+[return]

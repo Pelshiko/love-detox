@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/フィットネスルーム.PNG"  ]
+[preload  storage="./data/fgimage/chara/3/モデル３.PNG"  ]
+[preload  storage="./data/fgimage/chara/3/モデル２.PNG"  ]
+[preload  storage="./data/fgimage/chara/3/モデル１.PNG"  ]
+[return]
