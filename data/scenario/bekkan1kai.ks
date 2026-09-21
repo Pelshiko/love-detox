@@ -18,12 +18,12 @@
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="光風.mp3"  ]
 [bg  time="1000"  method="crossfade"  storage="別館１階.PNG"  ]
-[button  storage="map.ks"  target=""  graphic="画像ボタン水色.PNG"  width="162"  height="155"  x="560"  y="603"  _clickable_img=""  name="img_2"  ]
+[button  storage="map.ks"  target=""  graphic="画像botan水色.PNG"  width="126"  height="123"  x="580"  y="622"  _clickable_img=""  name="img_3"  ]
 [tb_start_tyrano_code]
 [if exp="f.tyonriba_done == false"]
 [_tb_end_tyrano_code]
 
-[button  storage="tyouriba.ks"  target=""  graphic="画像ボタン水色.PNG"  width="239"  height="229"  x="211"  y="114"  _clickable_img=""  name="img_3"  ]
+[button  storage="tyouriba.ks"  target=""  graphic="画像botan水色.PNG"  width="246"  height="238"  x="209"  y="107"  _clickable_img=""  name="img_5"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -32,7 +32,7 @@
 [if exp="f.kagikanrisitsu_done == false"]
 [_tb_end_tyrano_code]
 
-[button  storage="kagikanrisitsu.ks"  target=""  graphic="画像ボタン水色.PNG"  width="239"  height="229"  x="212"  y="409"  _clickable_img=""  name="img_4"  ]
+[button  storage="kagikanrisitsu.ks"  target=""  graphic="画像botan水色.PNG"  width="245"  height="236"  x="210"  y="413"  _clickable_img=""  name="img_8"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -41,7 +41,7 @@
 [if exp="f.kaigisitsu_done == false"]
 [_tb_end_tyrano_code]
 
-[button  storage="kaigisitsu.ks"  target=""  graphic="画像ボタン水色.PNG"  width="239"  height="229"  x="830"  y="410"  _clickable_img=""  name="img_5"  ]
+[button  storage="kaigisitsu.ks"  target=""  graphic="画像botan水色.PNG"  width="265"  height="258"  x="817"  y="405"  _clickable_img=""  name="img_11"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -50,10 +50,10 @@
 [if exp="f.fitnesroom_done == false"]
 [_tb_end_tyrano_code]
 
-[button  storage="fitnesroom.ks"  target=""  graphic="画像ボタン水色.PNG"  width="239"  height="229"  x="825"  y="108"  _clickable_img=""  name="img_6"  ]
+[button  storage="fitnesroom.ks"  target=""  graphic="画像botan水色.PNG"  width="269"  height="258"  x="812"  y="98"  _clickable_img=""  name="img_14"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
-[button  storage="2kai.ks"  target=""  graphic="画像ボタン水色.PNG"  width="156"  height="151"  x="561"  y="74"  _clickable_img=""  ]
+[button  storage="2kai.ks"  target=""  graphic="画像botan水色.PNG"  width="119"  height="116"  x="582"  y="26"  _clickable_img=""  ]
 [s  ]

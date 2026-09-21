@@ -17,7 +17,7 @@
 そうなると、本館で見ておくべき場所はここくらいだろうか。[p]
 [_tb_end_text]
 
-[chara_show  name="医師"  time="1000"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="1000"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 お、君は確か[emb exp=f.player_name]さんだったね。[p]

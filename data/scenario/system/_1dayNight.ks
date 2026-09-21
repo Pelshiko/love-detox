@@ -1,4 +1,4 @@
-[preload  storage="./data/bgimage/リビングルーム.PNG"  ]
+[preload  storage="./data/bgimage/living_room.PNG"  ]
 [preload  storage="./data/bgimage/調理場.PNG"  ]
 [preload  storage="./data/fgimage/chara/6/料理人２.PNG"  ]
 [preload  storage="./data/fgimage/chara/6/料理人１.PNG"  ]

@@ -4,7 +4,7 @@
 
 [tb_show_message_window  ]
 [popopo  type="sine"  volume="50"  time="20"  octave="0"  frequency="A"  chara="default"  ]
-[playbgm  volume="100"  time="1000"  loop="true"  storage="夜と静寂(The_night_and_quiet).mp3"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="The_night_and_quiet.mp3"  ]
 [bg  time="1000"  method="crossfade"  storage="寝室夜.PNG"  ]
 [tb_start_text mode=1 ]
 #
@@ -38,15 +38,15 @@
 失礼しまーす。[p]
 [_tb_end_text]
 
-[playbgm  volume="100"  time="1000"  loop="true"  storage="良心が強すぎる泥棒的なBGM.mp3"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー５.PNG"  width="752"  height="1129"  left="245"  top="36"  reflect="false"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="event_BGM.mp3"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer５.PNG"  width="783"  height="1175"  left="236"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 うわ！びっくりした！[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家４.PNG"  width="742"  height="1115"  left="225"  top="47"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家４.PNG"  width="714"  height="1073"  left="200"  top="21"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 うわっ！[p]
@@ -54,7 +54,7 @@
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー５.PNG"  width="752"  height="1129"  left="247"  top="33"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer５.PNG"  width="783"  height="1175"  left="236"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 あ、わりい！[p]
@@ -81,18 +81,18 @@
 みんな、何してるの？[p]
 [_tb_end_text]
 
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー２.PNG"  width="781"  height="1171"  left="234"  top="8"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer２.PNG"  width="744"  height="1118"  left="256"  top="-2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
-なんか分かんねえけど、なかなか寝つけなくてよ。[p]
+なんでかなかなか寝つけなくてよ。[p]
 気晴らしに踊ろうと思って外に出たらこの２人がいたんだよ。[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
-私たちも同じよ。[p]
+私たちも同じだよ。[p]
 身体は疲れているのに、気持ちだけが妙に冴えてるっていうのかな。[p]
 [_tb_end_text]
 
@@ -112,10 +112,15 @@
 そういえばなんでここにいるの？[p]
 [_tb_end_text]
 
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー２.PNG"  width="781"  height="1171"  left="234"  top="8"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer３.PNG"  width="785"  height="1175"  left="225"  top="1"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 それがよ、俺たち最初は東屋ん中で喋ってたんだぜ？[p]
+
+[_tb_end_text]
+
+[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/dancer２.PNG"  ]
+[tb_start_text mode=1 ]
 そしたら急に【女優】がお腹空いたって騒ぎ出してよ。[p]
 [_tb_end_text]
 
@@ -135,19 +140,19 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー３.PNG"  width="790"  height="1185"  left="225"  top="6"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer３.PNG"  width="785"  height="1175"  left="225"  top="1"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 え？[p]
 [_tb_end_text]
 
-[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/ダンサー２.PNG"  ]
+[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/dancer２.PNG"  ]
 [tb_start_text mode=1 ]
 いや俺はお腹空いたなんて言ってねえけど……？[p]
 
 [_tb_end_text]
 
-[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/ダンサー１.PNG"  ]
+[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/dancer1.PNG"  ]
 [tb_start_text mode=1 ]
 ていうかすげーよなお前！[p]
 夜ご飯あんないっぱい食べてたのに、まだ食い足りなかったんだな！[p]
@@ -162,21 +167,21 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 君って本当デリカシーないよね……[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー２.PNG"  width="781"  height="1171"  left="234"  top="8"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer２.PNG"  width="744"  height="1118"  left="256"  top="-2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 ん？俺のこと？[p]
 
 [_tb_end_text]
 
-[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/ダンサー１.PNG"  ]
+[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/dancer1.PNG"  ]
 [tb_start_text mode=1 ]
 よくわかんねえけど、悪かったな！[p]
 [_tb_end_text]
@@ -192,7 +197,7 @@
 [tb_start_text mode=1 ]
 #女優
 うん。そうだよ。[p]
-いいこと言うね。[p]
+いいこと言うね？[p]
 
 [_tb_end_text]
 
@@ -203,7 +208,7 @@
 そういえば、撮影終わった後でも別館に入れたんだね。[p]
 [_tb_end_text]
 
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 うん。いつでも使っていいって冊子にも書いてあるよ。[p]
@@ -220,7 +225,7 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 別にそんな恥ずかしがることじゃないって。[p]
@@ -233,7 +238,7 @@
 それにしても何作ろうとしてたの？[p]
 [_tb_end_text]
 
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー２.PNG"  width="781"  height="1171"  left="234"  top="8"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer２.PNG"  width="744"  height="1118"  left="256"  top="-2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 確かサンドウィッチだったよな？[p]
@@ -248,7 +253,7 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 危ないから慌てちゃダメだよ。[p]
@@ -280,14 +285,14 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 【女優】ちゃん今それどころじゃないかもよ。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 その卵をザルに移そうとしてるんだな！[p]
@@ -374,7 +379,7 @@
 [s  ]
 *jamp2
 
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー２.PNG"  width="781"  height="1171"  left="234"  top="8"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer２.PNG"  width="744"  height="1118"  left="256"  top="-2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 なんか、卵多くね？[p]
@@ -388,7 +393,7 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 え？私たちの分も作ろうとしてくれてたの？[p]
@@ -403,7 +408,7 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 そうだったんだ……[p]
@@ -412,7 +417,7 @@
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー３.PNG"  width="784"  height="1172"  left="232"  top="4"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer２.PNG"  width="744"  height="1118"  left="256"  top="-2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 お、じゃあ俺パン焼いといたらいいか？[p]
@@ -442,7 +447,7 @@
 手伝うよ。[p]
 [_tb_end_text]
 
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 お、気が利くじゃん。[p]
@@ -478,7 +483,7 @@
 手伝うよ。[p]
 [_tb_end_text]
 
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="759"  height="1141"  left="236"  top="3"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 マジ？助かるぜ！[p]
@@ -492,7 +497,7 @@
 半分に切ったら１２切れもできるよ。[p]
 [_tb_end_text]
 
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="759"  height="1141"  left="236"  top="3"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 そんくらいでいくか！[p]
@@ -555,7 +560,7 @@
 その後みんなで協力して卵サンドが出来上がった……[p]
 [_tb_end_text]
 
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="759"  height="1141"  left="236"  top="3"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 うめー！[p]
@@ -571,7 +576,7 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 うんん。いざ目の前にすると私もお腹空いてきちゃったから丁度良かったよ。[p]
@@ -592,14 +597,14 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="759"  height="1141"  left="236"  top="3"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 ああ、エグいな！[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 【女優】ちゃんって意外とそういう言葉使いするんだね。[p]
@@ -613,21 +618,21 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー２.PNG"  width="746"  height="1120"  left="238"  top="6"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer２.PNG"  width="744"  height="1118"  left="256"  top="-2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 何ぶつぶつ言ってんだ？[p]
 
 [_tb_end_text]
 
-[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/ダンサー５.PNG"  ]
+[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/dancer５.PNG"  ]
 [tb_start_text mode=1 ]
 あ！もうこんな時間なのか！[p]
 さっさと食って寝ようぜ！[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 そうだね。私もさすがに眠たくなってきたかも。[p]

@@ -3,7 +3,7 @@
 *boutou
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="insomnia.mp3"  ]
-[bg  time="1000"  method="crossfade"  storage="リビングルーム.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="living_room.PNG"  ]
 [tb_show_message_window  ]
 [popopo  type="sine"  volume="50"  time="20"  octave="0"  frequency="A"  chara="default"  ]
 [tb_start_text mode=1 ]
@@ -19,7 +19,7 @@
 料理の匂いをずっと嗅いでいたせいもあってか、全員すっかりお腹を空かせていた。[p]
 [_tb_end_text]
 
-[bg  time="1000"  method="crossfade"  storage="リビングルーム.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="living_room.PNG"  ]
 [tb_start_text mode=1 ]
 完成した料理をテーブルに並べ、みんなで席につく。[p]
 最初こそ「美味しい」「これ誰が作ったの？」なんて声も飛び交っていたが、それも束の間。[p]
@@ -30,7 +30,7 @@
 みんな同じ人間、今考えれば当たり前のことだ。[p]
 [_tb_end_text]
 
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 うまかったー！[p]
@@ -38,14 +38,14 @@
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 その道のプロがいたからね。美味しくて当然だよ。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 いいや、ベタな話かと思われるかもしれないが、みんなで作ったからさ。[p]
@@ -67,7 +67,7 @@
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 うわー！素敵です、その考え！[p]
@@ -75,21 +75,21 @@
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="漫画家"  time="300"  wait="true"  storage="chara/4/漫画家４.PNG"  width="714"  height="1073"  left="265"  top="61"  reflect="false"  ]
+[chara_show  name="漫画家"  time="300"  wait="true"  storage="chara/4/漫画家４.PNG"  width="643"  height="966"  left="299"  top="27"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #漫画家
 一番掻き回してたんあんたやろ！[p]
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/アイドル４.PNG"  width="752"  height="1129"  left="232"  top="13"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/idol４.PNG"  width="823"  height="1236"  left="196"  top="-65"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 えー！酷いです！あんなに頑張ったのに！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 まあ、やる気さえあれば何とかなる……と言えないのが料理の難しいところだね。[p]
@@ -97,7 +97,7 @@
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 ありがとうございます！[p]
@@ -111,7 +111,7 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="女優"  time="300"  wait="true"  storage="chara/1/女優v２.PNG"  width="918"  height="1374"  left="125"  top="-41"  reflect="false"  ]
+[chara_show  name="女優"  time="300"  wait="true"  storage="chara/1/女優v２.PNG"  width="824"  height="1239"  left="179"  top="-71"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #女優
 それにしてもいまだに不思議な感覚。[p]
@@ -119,7 +119,7 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 いやいや、それはちょっと卑下が過ぎるんじゃない？[p]
@@ -127,7 +127,7 @@
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 【女優】！俺もお前テレビで見たことあるぞ！[p]
@@ -135,7 +135,7 @@
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="女優"  time="300"  wait="true"  storage="chara/1/女優１.PNG"  width="920"  height="1380"  left="138"  top="-49"  reflect="false"  ]
+[chara_show  name="女優"  time="300"  wait="true"  storage="chara/1/女優１.PNG"  width="750"  height="1123"  left="213"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #女優
 言わせたみたいでごめんね。[p]
@@ -143,7 +143,7 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル２.PNG"  width="784"  height="1172"  left="193"  top="26"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 まあでも実際この中で飛び抜けて有名って言ったら、【アイドル】さん、【漫画家】さん、【女優】さんってとこだと思うっす。[p]
@@ -176,7 +176,7 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 またってどういうこと？[p]
@@ -192,7 +192,7 @@
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="752"  height="1129"  left="234"  top="30"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="724"  height="1080"  left="271"  top="6"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 【小説家】さん、気持ちは分かるんだけどプロ相手にそのお願いは失礼にあたるんじゃないかな……[p]
@@ -221,7 +221,7 @@
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 頼み方はアレだけど、描いてあげたら？[p]
@@ -229,7 +229,7 @@
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="漫画家"  time="300"  wait="true"  storage="chara/4/漫画家３.PNG"  width="781"  height="1173"  left="230"  top="16"  reflect="false"  ]
+[chara_show  name="漫画家"  time="300"  wait="true"  storage="chara/4/漫画家３.PNG"  width="733"  height="1101"  left="237"  top="26"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #漫画家
 まあええけど、そんな大したもんやないで……[p]
@@ -250,14 +250,14 @@
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="女優"  time="300"  wait="true"  storage="chara/1/女優１.PNG"  width="924"  height="1386"  left="152"  top="-81"  reflect="false"  ]
+[chara_show  name="女優"  time="300"  wait="true"  storage="chara/1/女優１.PNG"  width="750"  height="1123"  left="213"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #女優
-嬉しい時声には出ないけど顔に出るタイプだ……[p]
+顔に出るタイプだ。[p]
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 ほら、あんな嬉しそうな【小説家】ちゃん見たことないよ。知らないけど。[p]
@@ -282,7 +282,7 @@
 ……[p]
 [_tb_end_text]
 
-[chara_show  name="女優"  time="300"  wait="true"  storage="chara/1/女優１.PNG"  width="924"  height="1386"  left="152"  top="-81"  reflect="false"  ]
+[chara_show  name="女優"  time="300"  wait="true"  storage="chara/1/女優１.PNG"  width="750"  height="1123"  left="213"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #女優
 え？何ですか？メッセージ？[p]
@@ -294,7 +294,7 @@
 （確かに机には全員分のメッセージカードとペンがある……）[p]
 [_tb_end_text]
 
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 みたいだね。さあ、カードとペンを配っていくよ。[p]
@@ -308,7 +308,7 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 何だ、照れてるのかい？[p]
@@ -327,21 +327,21 @@
 （強制参加のこういう企画、確かに見たことあるな……）[p]
 [_tb_end_text]
 
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 うわー！なんかドキドキしますね！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="836"  height="1258"  left="189"  top="26"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 まあでも一日目だけじゃ何とも言えないっすね……[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 まあ『もっと知りたい人』だから、そんな気を張らずに書けばいいんじゃないかな。[p]
@@ -349,7 +349,7 @@
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 みんな、人のは見ちゃいけないよ。[p]
@@ -362,15 +362,15 @@
 誰に送ろう？[p]
 [_tb_end_text]
 
-[glink  color="btn_21_blue"  storage="1dayNight.ks"  size="20"  text="モデル"  target="*model"  x="309"  y="195"  width="108"  height="48"  _clickable_img=""  ]
-[glink  color="btn_21_blue"  storage="1dayNight.ks"  size="20"  text="医師"  x="312"  y="288"  width="108"  height="48"  _clickable_img=""  target="*doctor"  ]
-[glink  color="btn_21_blue"  storage="1dayNight.ks"  size="20"  text="漫画家"  x="315"  y="390"  width="108"  height="48"  _clickable_img=""  target="*mangaka"  ]
-[glink  color="btn_21_blue"  storage="1dayNight.ks"  size="20"  text="ダンサー"  x="522"  y="196"  width="108"  height="48"  _clickable_img=""  target="*dancer"  ]
-[glink  color="btn_21_red"  storage="1dayNight.ks"  size="20"  text="料理人"  x="525"  y="299"  width="108"  height="48"  _clickable_img=""  target="*ryourinin"  ]
-[glink  color="btn_21_red"  storage="1dayNight.ks"  size="20"  text="アイドル"  x="522"  y="396"  width="108"  height="48"  _clickable_img=""  target="*idol"  ]
-[glink  color="btn_21_red"  storage="1dayNight.ks"  size="20"  text="音楽家"  x="755"  y="196"  width="108"  height="48"  _clickable_img=""  target="*ongakuka"  ]
-[glink  color="btn_21_red"  storage="1dayNight.ks"  size="20"  text="小説家"  x="762"  y="298"  width="108"  height="48"  _clickable_img=""  target="*shousetsuka"  ]
-[glink  color="btn_21_red"  storage="1dayNight.ks"  size="20"  text="女優"  x="758"  y="398"  width="108"  height="48"  _clickable_img=""  target="*joyuu"  ]
+[glink  color="btn_21_blue"  storage="1dayNight.ks"  size="40"  text="モデル"  target="*model"  x="550"  y="126"  width="174"  height="100"  _clickable_img=""  ]
+[glink  color="btn_21_blue"  storage="1dayNight.ks"  size="40"  text="医師"  x="302"  y="263"  width="174"  height="100"  _clickable_img=""  target="*doctor"  ]
+[glink  color="btn_21_blue"  storage="1dayNight.ks"  size="40"  text="漫画家"  x="547"  y="426"  width="174"  height="100"  _clickable_img=""  target="*mangaka"  ]
+[glink  color="btn_21_blue"  storage="1dayNight.ks"  size="40"  text="ダンサー"  x="768"  y="259"  width="216"  height="100"  _clickable_img=""  target="*dancer"  ]
+[glink  color="btn_21_red"  storage="1dayNight.ks"  size="40"  text="料理人"  x="299"  y="126"  width="174"  height="100"  _clickable_img=""  target="*ryourinin"  ]
+[glink  color="btn_21_red"  storage="1dayNight.ks"  size="40"  text="アイドル"  x="291"  y="427"  width="210"  height="100"  _clickable_img=""  target="*idol"  ]
+[glink  color="btn_21_red"  storage="1dayNight.ks"  size="40"  text="音楽家"  x="543"  y="271"  width="174"  height="100"  _clickable_img=""  target="*ongakuka"  ]
+[glink  color="btn_21_red"  storage="1dayNight.ks"  size="40"  text="小説家"  x="780"  y="423"  width="174"  height="100"  _clickable_img=""  target="*shousetsuka"  ]
+[glink  color="btn_21_red"  storage="1dayNight.ks"  size="40"  text="女優"  x="783"  y="126"  width="174"  height="100"  _clickable_img=""  target="*joyuu"  ]
 [s  ]
 *model
 

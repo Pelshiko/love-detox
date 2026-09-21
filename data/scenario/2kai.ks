@@ -20,7 +20,7 @@
 [if exp="f.thiaterroom_done == false"]
 [_tb_end_tyrano_code]
 
-[button  storage="thiaterroom.ks"  target=""  graphic="画像ボタン水色.PNG"  width="280"  height="269"  x="178"  y="217"  _clickable_img=""  name="img_1"  ]
+[button  storage="thiaterroom.ks"  target=""  graphic="画像botan水色.PNG"  width="353"  height="341"  x="138"  y="192"  _clickable_img=""  name="img_4"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -29,17 +29,17 @@
 [if exp="f.rivingroom_done == false"]
 [_tb_end_tyrano_code]
 
-[button  storage="rivingroom.ks"  target=""  graphic="画像ボタン水色.PNG"  width="280"  height="269"  x="833"  y="224"  _clickable_img=""  name="img_2"  ]
+[button  storage="rivingroom.ks"  target=""  graphic="画像botan水色.PNG"  width="353"  height="341"  x="804"  y="190"  _clickable_img=""  name="img_7"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
-[button  storage="bekkan1kai.ks"  target=""  graphic="画像ボタン水色.PNG"  width="144"  height="139"  x="589"  y="532"  _clickable_img=""  name="img_3"  ]
+[button  storage="bekkan1kai.ks"  target=""  graphic="画像botan水色.PNG"  width="172"  height="166"  x="568"  y="521"  _clickable_img=""  name="img_9"  ]
 [tb_start_tyrano_code]
 [if exp="f.okujou_done == false"]
 [_tb_end_tyrano_code]
 
-[button  storage="okujou.ks"  target=""  graphic="画像ボタン水色.PNG"  width="144"  height="139"  x="584"  y="51"  _clickable_img=""  ]
+[button  storage="okujou.ks"  target=""  graphic="画像botan水色.PNG"  width="162"  height="158"  x="576"  y="58"  _clickable_img=""  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]

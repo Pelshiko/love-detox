@@ -16,7 +16,7 @@
 みんなでDIYでもする時間でもあるのだろうか。[p]
 [_tb_end_text]
 
-[chara_show  name="女優"  time="1000"  wait="true"  storage="chara/1/女優１２.PNG"  width="1024"  height="1536"  left="97"  top="-105"  reflect="false"  ]
+[chara_show  name="女優"  time="1000"  wait="true"  storage="chara/1/女優１.PNG"  width="750"  height="1123"  left="213"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #女優
 わっ！[p]
@@ -26,7 +26,7 @@
 
 [_tb_end_text]
 
-[chara_mod  name="女優"  time="600"  cross="true"  storage="chara/1/女優１６.PNG"  ]
+[chara_mod  name="女優"  time="600"  cross="true"  storage="chara/1/女優７.PNG"  ]
 [tb_start_text mode=1 ]
 #女優
 びっくりした？（笑）[p]
@@ -47,7 +47,7 @@
 まあ、色んなとこにお金掛けてるみたいだから…予算が持たなかったのかな[p]
 [_tb_end_text]
 
-[chara_mod  name="女優"  time="600"  cross="true"  storage="chara/1/女優１６.PNG"  ]
+[chara_mod  name="女優"  time="600"  cross="true"  storage="chara/1/女優７.PNG"  ]
 [tb_start_text mode=1 ]
 #女優
 そうか…あれだね、経理担当者がボーッとしてたのかな？[p]

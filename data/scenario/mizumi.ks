@@ -17,7 +17,7 @@
 
 [_tb_end_text]
 
-[chara_show  name="音楽家"  time="1000"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="1000"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 やっぱり自然はいいね。[p]

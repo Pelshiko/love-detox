@@ -16,7 +16,7 @@
 周囲には至る所に照明が設置されており、夜の撮影にも万全を期していることが伺える。[p]
 [_tb_end_text]
 
-[chara_show  name="ダンサー"  time="1000"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="1000"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 お、遊びに来たのか！[p]
@@ -32,26 +32,26 @@
 そんな狭いとこで踊らない方がいいよ……[p]
 [_tb_end_text]
 
-[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/ダンサー２.PNG"  ]
+[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/dancer２.PNG"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 そうか？まあ簡単なやつならその辺でもできそうだしな。[p]
 ちょっと探したんだけど、ダンススタジオとかはねえみたいなんだ。[p]
 [_tb_end_text]
 
-[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/ダンサー１.PNG"  ]
+[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/dancer1.PNG"  ]
 [tb_start_text mode=1 ]
 まあスペースがあればどこでも踊れるけどな！[p]
 
 [_tb_end_text]
 
-[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/ダンサー３.PNG"  ]
+[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/dancer３.PNG"  ]
 [tb_start_text mode=1 ]
 あ、でもここは近くに花壇があるからそれは気を付けないとな。[p]
 
 [_tb_end_text]
 
-[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/ダンサー１.PNG"  ]
+[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/dancer1.PNG"  ]
 [tb_start_text mode=1 ]
 蹴飛ばしたりしたら怒られそうだ！[p]
 #あなた

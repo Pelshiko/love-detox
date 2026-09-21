@@ -2,7 +2,7 @@
 
 *start
 
-[playbgm  volume="100"  time="1000"  loop="true"  storage="夜と静寂(The_night_and_quiet).mp3"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="The_night_and_quiet.mp3"  ]
 [bg  time="1000"  method="crossfade"  storage="中庭夕１.PNG"  ]
 [tb_show_message_window  ]
 [popopo  type="sine"  volume="50"  time="20"  octave="0"  frequency="A"  chara="default"  ]
@@ -19,8 +19,8 @@
 
 [_tb_end_text]
 
-[playbgm  volume="100"  time="1000"  loop="true"  storage="良心が強すぎる泥棒的なBGM.mp3"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="788"  height="1180"  left="204"  top="7"  reflect="false"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="event_BGM.mp3"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 ああ、ごめんごめん急に。[p]
@@ -89,7 +89,7 @@
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="828"  height="1242"  left="206"  top="4"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 自分と考えが違ったりすると、あとあと疲れるかもしれないよね。[p]
@@ -105,7 +105,7 @@
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="828"  height="1242"  left="206"  top="4"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 そこだよね。[p]
@@ -149,7 +149,7 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="828"  height="1242"  left="206"  top="4"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 自分と考えが違ったりすると、あとあと疲れるかもしれないよね。[p]
@@ -165,7 +165,7 @@
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="828"  height="1242"  left="206"  top="4"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 そこだよね。[p]
@@ -208,7 +208,7 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="823"  height="1234"  left="198"  top="15"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 というと？[p]
@@ -225,7 +225,7 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="823"  height="1234"  left="198"  top="15"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 なるほど。君はどう思う？[p]
@@ -249,7 +249,7 @@
 注意するかな……[p]
 [_tb_end_text]
 
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="786"  height="1175"  left="218"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="724"  height="1080"  left="271"  top="6"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 僕も軽く注意するね。[p]
@@ -275,7 +275,7 @@
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="823"  height="1234"  left="198"  top="15"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 止めるなら、人によって理由は色々ありそうだよね。[p]
@@ -312,7 +312,7 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="757"  height="1135"  left="228"  top="14"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="724"  height="1080"  left="271"  top="6"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 僕は軽く注意するね。[p]
@@ -361,7 +361,7 @@
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="823"  height="1234"  left="198"  top="15"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 まあ、そんなところだね。[p]
@@ -377,7 +377,7 @@
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="823"  height="1234"  left="198"  top="15"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 それは注意するとか以前の問題だね。[p]
@@ -397,7 +397,7 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="823"  height="1234"  left="198"  top="15"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 僕もそうだね。[p]
@@ -454,7 +454,7 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="712"  height="1070"  left="244"  top="-1"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 なかなか簡単に答えられる質問じゃないね。[p]
@@ -490,7 +490,7 @@
 止めないかな……[p]
 [_tb_end_text]
 
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="712"  height="1070"  left="244"  top="-1"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 なかなか簡単に答えられる質問じゃないけど、僕もそうかな。[p]
@@ -544,7 +544,7 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="823"  height="1234"  left="198"  top="15"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 というか、なんか重い話になっちゃってたね（笑）[p]
@@ -566,7 +566,7 @@
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="823"  height="1234"  left="198"  top="15"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 いやでも分かるよ。[p]
@@ -583,7 +583,7 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="823"  height="1234"  left="198"  top="15"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 つい話に夢中になってしまったね。[p]
@@ -615,7 +615,7 @@
 
 [bg  time="2000"  method="crossfade"  storage="黒画面.PNG"  ]
 [bg  time="1000"  method="crossfade"  storage="寝室朝.PNG"  ]
-[playbgm  volume="100"  time="1000"  loop="true"  storage="早朝の白い雲.mp3"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="morning_music.mp3"  ]
 [tb_start_text mode=1 ]
 #
 3日目の朝が来た。[p]

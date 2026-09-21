@@ -17,7 +17,7 @@
 
 [_tb_end_text]
 
-[chara_show  name="アイドル"  time="1000"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="709"  height="1067"  left="255"  top="-9"  reflect="false"  ]
+[chara_show  name="アイドル"  time="1000"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 あ！[emb exp=f.player_name]さんですね！[p]
@@ -35,7 +35,7 @@
 
 [_tb_end_text]
 
-[chara_mod  name="アイドル"  time="600"  cross="true"  storage="chara/7/アイドル５.PNG"  ]
+[chara_mod  name="アイドル"  time="600"  cross="true"  storage="chara/7/idol５.PNG"  ]
 [tb_start_text mode=1 ]
 #アイドル
 ですです！でもこの部屋って…どういう場面で使う部屋なんでしょう？[p]
@@ -44,7 +44,7 @@
 
 [_tb_end_text]
 
-[chara_mod  name="アイドル"  time="600"  cross="true"  storage="chara/7/アイドル４.PNG"  ]
+[chara_mod  name="アイドル"  time="600"  cross="true"  storage="chara/7/idol４.PNG"  ]
 [tb_start_text mode=1 ]
 #アイドル
 つまりあれですか！誰かと誰かが同じ人を好きになってしまい、その恋に決着をつける時、ついにこの部屋が開放される…みたいな？[p]

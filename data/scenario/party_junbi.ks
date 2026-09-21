@@ -17,14 +17,14 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 うわ、BBQなんて言うからお肉食べたくなってきました！[p]
@@ -38,7 +38,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 はーい！[p]
@@ -62,7 +62,7 @@ BBQとかにしなくて良かったね。[p]
 そしてその時はあっという間にやってきた。[p]
 [_tb_end_text]
 
-[bg  time="1000"  method="crossfade"  storage="大広間パーテイー用.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="大広間party用.PNG"  ]
 [tb_start_text mode=1 ]
 #
 かんぱーい！！[p]
@@ -70,7 +70,7 @@ BBQとかにしなくて良かったね。[p]
 
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [playbgm  volume="50"  time="1000"  loop="true"  storage="Bouncy_Away.mp3"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 ビールうんめー！[p]
@@ -84,7 +84,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 さあみんな！料理も食べていいよ！[p]
@@ -93,7 +93,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 何ですかこれ！美味しい！[p]
@@ -108,7 +108,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="826"  height="1239"  left="195"  top="-8"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 やっぱりバイキングにするから人が密集してるな……[p]
@@ -130,28 +130,28 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 ……うん、どうもありがとう。[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 そっちのテーブルビール開けてない！もーらい。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 ナイス！[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル３.PNG"  width="809"  height="1216"  left="171"  top="22"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 ちょっとみんな、ペース早すぎるっすよ……[p]
@@ -166,7 +166,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 ふふふ、そうだろう……[p]
@@ -180,7 +180,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 さっきから何をブツブツ言ってるの？[p]
@@ -188,7 +188,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人４.PNG"  width="714"  height="1073"  left="262"  top="35"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人４.PNG"  width="667"  height="1002"  left="266"  top="35"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 あれ？誰も聞いてない……[p]
@@ -203,14 +203,14 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 ああ、すまん……[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 【料理人】さんパスタ食べないんですか！？[p]
@@ -218,21 +218,21 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人４.PNG"  width="714"  height="1073"  left="262"  top="35"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人４.PNG"  width="667"  height="1002"  left="266"  top="35"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 あ！まだあげるとは……[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 うんん……やっぱり美味しいなあ……！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 ……[p]
@@ -248,7 +248,7 @@ BBQとかにしなくて良かったね。[p]
 18:30頃……[p]
 [_tb_end_text]
 
-[bg  time="1000"  method="crossfade"  storage="大広間パーテイー用.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="大広間party用.PNG"  ]
 [playbgm  volume="50"  time="1000"  loop="true"  storage="Bouncy_Away.mp3"  ]
 [chara_show  name="漫画家"  time="300"  wait="true"  storage="chara/4/漫画家４.PNG"  width="644"  height="968"  left="289"  top="44"  reflect="false"  ]
 [tb_start_text mode=1 ]
@@ -257,7 +257,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家４.PNG"  width="827"  height="1238"  left="176"  top="23"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家４.PNG"  width="678"  height="1019"  left="278"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 誰かあの子拘束しといて！[p]
@@ -271,14 +271,14 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/アイドル５.PNG"  width="790"  height="1185"  left="222"  top="16"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/idol５.PNG"  width="673"  height="1012"  left="283"  top="-8"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 しーっ！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 おーい！みんな気づいてないかもだけど、実は一番食ってんの【女優】……[p]
@@ -292,14 +292,14 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 おお！サンキュー！お前いい奴だな！[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル３.PNG"  width="828"  height="1243"  left="195"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model３.PNG"  width="729"  height="1097"  left="229"  top="22"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 やれやれっすよ。まさかこんな大騒ぎになるとは……[p]
@@ -307,7 +307,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 僕もだよ。[p]
@@ -316,7 +316,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 っていうかこの曲いいな！[p]
@@ -324,7 +324,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 うん、そう。[p]
@@ -340,21 +340,21 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 おう！もちろんだぜ！[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル２.PNG"  width="817"  height="1222"  left="173"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model２.PNG"  width="714"  height="1073"  left="234"  top="7"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 ここで？机から離れたとこでやってくれっすよ……[p]
 
 [_tb_end_text]
 
-[chara_mod  name="モデル"  time="600"  cross="true"  storage="chara/3/モデル４.PNG"  ]
+[chara_mod  name="モデル"  time="600"  cross="true"  storage="chara/3/model４.PNG"  ]
 [tb_start_text mode=1 ]
 うわあ！[p]
 [_tb_end_text]
@@ -367,21 +367,21 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 うおー！かっこいいです！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="787"  height="1179"  left="229"  top="18"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="781"  height="1174"  left="269"  top="-5"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 いやあ、若いっていいね……[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 また追加持ってきたよ〜[p]
@@ -394,7 +394,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 踊りたい奴みんな一緒に踊ろうぜ！[p]
@@ -412,14 +412,14 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 やれやれ、私も少しこのショーを見るついでに休憩しようかな。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 もちろんだよ。むしろごめんね任せっきりになってしまって。[p]
@@ -434,13 +434,13 @@ BBQとかにしなくて良かったね。[p]
 
 [_tb_end_text]
 
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
-じゃあそうさせてもらうよ、ありがとう。[p]
+ありがとう。そうさせてもらうよ。[p]
 [_tb_end_text]
 
-[chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
+[chara_hide  name="料理人"  time="1000"  wait="true"  pos_mode="true"  ]
 [stopbgm  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="黒画面.PNG"  ]
 [tb_start_text mode=1 ]
@@ -449,7 +449,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [playbgm  volume="50"  time="1000"  loop="true"  storage="Bouncy_Away.mp3"  ]
-[bg  time="1000"  method="crossfade"  storage="大広間パーテイー用.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="大広間party用.PNG"  ]
 [chara_show  name="漫画家"  time="300"  wait="true"  storage="chara/4/漫画家２.PNG"  width="678"  height="1019"  left="274"  top="31"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #漫画家
@@ -477,41 +477,41 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 もう、その話はやめてよ……[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 【音楽家】はこの感じで意外と抜けてるとこあるからね。（笑）[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="836"  height="1258"  left="189"  top="26"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model２.PNG"  width="714"  height="1073"  left="234"  top="7"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 っていうかそれで言うと、みんなある程度第一印象変わったすよね。[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー５.PNG"  width="773"  height="1159"  left="221"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer５.PNG"  width="678"  height="1019"  left="281"  top="10"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 え、そうなの！？[p]
 
 [_tb_end_text]
 
-[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/ダンサー２.PNG"  ]
+[chara_mod  name="ダンサー"  time="600"  cross="true"  storage="chara/5/dancer２.PNG"  ]
 [tb_start_text mode=1 ]
 俺は全然わかんねえ。[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 まあ、多少は感じるかな。[p]
@@ -526,7 +526,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 まあ、そりゃね。[p]
@@ -548,7 +548,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 まあ、本当に面白かったら笑うけど。[p]
@@ -580,7 +580,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 よーし、こういう時は乾杯だ乾杯！[p]
@@ -601,9 +601,9 @@ BBQとかにしなくて良かったね。[p]
 19:30頃……[p]
 [_tb_end_text]
 
-[bg  time="1000"  method="crossfade"  storage="大広間パーテイー用.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="大広間party用.PNG"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="insomnia.mp3"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 ようやくみんな落ち着いてきたみたいだね。[p]
@@ -611,7 +611,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="836"  height="1258"  left="189"  top="26"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 まるで当事者じゃないみたいに言ってるけど、意外とあんたもはしゃいでたっすよ……[p]
@@ -646,7 +646,7 @@ BBQとかにしなくて良かったね。[p]
 （あれで悪酔いしてないのか……酔ったらどうなるんだ……）[p]
 [_tb_end_text]
 
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 こうしてこのメンバーでテーブルを囲めるのも、いつまでになるか分からない。[p]
@@ -662,7 +662,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 あ、そういえば朝、川辺にボートがありました！[p]
@@ -670,14 +670,14 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル３.PNG"  width="738"  height="1111"  left="222"  top="27"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model２.PNG"  width="714"  height="1073"  left="240"  top="25"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 ええ！？何で言っちゃうんすか！？[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/アイドル４.PNG"  width="770"  height="1157"  left="228"  top="-16"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/idol４.PNG"  width="742"  height="1112"  left="232"  top="-62"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 あ……[p]
@@ -691,7 +691,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 いや、こういうことを変に詮索するのはやめようよ。[p]
@@ -707,7 +707,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー５.PNG"  width="792"  height="1188"  left="217"  top="21"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer５.PNG"  width="678"  height="1019"  left="281"  top="10"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 うわ、【女優】が泣き出したぞ！[p]
@@ -715,7 +715,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/アイドル４.PNG"  width="770"  height="1157"  left="228"  top="-16"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/idol４.PNG"  width="742"  height="1112"  left="232"  top="-62"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 【女優】ちゃんごめんなさい……！[p]
@@ -744,14 +744,14 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="836"  height="1258"  left="189"  top="26"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 意外っすね……[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 誰かわかんねえけど告白しようとしてる奴！[p]
@@ -759,7 +759,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 いや、それは自分のタイミングでやらせてあげよう？[p]
@@ -769,11 +769,11 @@ BBQとかにしなくて良かったね。[p]
 [chara_show  name="女優"  time="300"  wait="true"  storage="chara/1/女優１.PNG"  width="825"  height="1235"  left="190"  top="-30"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #女優
-いやごめんね？こんな空気にさせちゃって。[p]
+ごめんね？こんな空気にさせちゃって。[p]
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 こういう時はあれだ。乾杯だ。[p]
@@ -787,7 +787,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 仕切りたがりの性さ。[p]
@@ -813,14 +813,14 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 大雑把にしか決めてなかったけど、カラオケとかダンスとかやるんでしょ？[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 いいね！やろうやろう！[p]
@@ -834,21 +834,21 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 いくらでも踊ろうぜ！[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人２.PNG"  width="678"  height="1019"  left="271"  top="51"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 じゃあとりあえずカラオケ大会でもやるか？[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 うん。ありじゃない？[p]
@@ -856,7 +856,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 おお、いいな！なんかテンション上がってきたぜ！[p]
@@ -877,14 +877,14 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="836"  height="1258"  left="189"  top="26"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model２.PNG"  width="735"  height="1105"  left="233"  top="15"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 カラオケ大会か……本命は【アイドル】さんに【音楽家】さんってとこっすかね。[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/アイドル４.PNG"  width="770"  height="1157"  left="228"  top="-16"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/idol４.PNG"  width="742"  height="1112"  left="232"  top="-62"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 いやいや、私なんて全然です！[p]
@@ -908,7 +908,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 私は言っても演奏専門だからね……[p]
@@ -924,7 +924,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="836"  height="1258"  left="189"  top="26"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 どうします？すぐ始めるんすか？[p]
@@ -938,7 +938,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 私もとりあえずここの食器を片付けて２次会に向けてつまめる物くらい作っておきたいな。[p]
@@ -953,28 +953,28 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 まあ、いいんじゃない？クールダウンも兼ねて。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 もうすぐ20時だから……21時頃に再集合としようか。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 りょーかい！[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[playbgm  volume="100"  time="1000"  loop="true"  storage="夜と静寂(The_night_and_quiet).mp3"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="The_night_and_quiet.mp3"  ]
 [tb_start_text mode=1 ]
 #
 そうして一時解散となった。[p]
@@ -992,7 +992,7 @@ BBQとかにしなくて良かったね。[p]
 ん？[p]
 [_tb_end_text]
 
-[playbgm  volume="100"  time="1000"  loop="true"  storage="良心が強すぎる泥棒的なBGM.mp3"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="event_BGM.mp3"  ]
 [chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
@@ -1000,7 +1000,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 手伝おうか？[p]
@@ -1015,7 +1015,7 @@ BBQとかにしなくて良かったね。[p]
 二人は何を？[p]
 [_tb_end_text]
 
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 何をってまあ……喋ってるだけだよ？[p]
@@ -1040,7 +1040,7 @@ BBQとかにしなくて良かったね。[p]
 いや、なんかお似合いの二人だなと思って……[p]
 [_tb_end_text]
 
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 からかいに来たの？[p]
@@ -1059,7 +1059,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 【医師】さんもバカ言い出したよ。[p]
@@ -1082,21 +1082,21 @@ BBQとかにしなくて良かったね。[p]
 
 [_tb_end_text]
 
-[playbgm  volume="100"  time="1000"  loop="true"  storage="夜と静寂(The_night_and_quiet).mp3"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="The_night_and_quiet.mp3"  ]
 [bg  time="1000"  method="crossfade"  storage="倉庫.PNG"  ]
 [tb_start_text mode=1 ]
 #
 あなたは倉庫からカラオケセットを持ち出し大広間へ戻った。[p]
 [_tb_end_text]
 
-[bg  time="1000"  method="crossfade"  storage="大広間パーテイー用.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="大広間party用.PNG"  ]
 [tb_start_text mode=1 ]
 #あなた
 （やっぱ何人かは大広間に残ってるな……）[p]
 [_tb_end_text]
 
-[playbgm  volume="100"  time="1000"  loop="true"  storage="良心が強すぎる泥棒的なBGM.mp3"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="836"  height="1258"  left="189"  top="26"  reflect="false"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="event_BGM.mp3"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 お、結構な大荷物っすね。[p]
@@ -1109,7 +1109,7 @@ BBQとかにしなくて良かったね。[p]
 見た目より重かったよ……[p]
 [_tb_end_text]
 
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル３.PNG"  width="834"  height="1251"  left="181"  top="25"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 そりゃ精密機械っすからね。軽いわけないでしょ。[p]
@@ -1122,7 +1122,7 @@ BBQとかにしなくて良かったね。[p]
 あ、うん。[p]
 [_tb_end_text]
 
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 お、カラオケマシーンの登場だな！[p]
@@ -1137,7 +1137,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer２.PNG"  width="676"  height="1016"  left="287"  top="23"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 歌いたくなきゃ歌わなくてもいいんだろ？[p]
@@ -1145,14 +1145,14 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 そうとも。みんなが楽しめることが大事だからね。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 だってよ。だから気にすんな！[p]
@@ -1167,14 +1167,14 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 関係ねえよ上手いとか下手とか！[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 いいこと言うね。[p]
@@ -1206,8 +1206,8 @@ BBQとかにしなくて良かったね。[p]
 そしてみんなが入れ替わり立ち替わり大広間出入りしている間に時刻は過ぎていった。[p]
 [_tb_end_text]
 
-[bg  time="1000"  method="crossfade"  storage="大広間パーテイー用.PNG"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人２.PNG"  width="752"  height="1129"  left="234"  top="27"  reflect="false"  ]
+[bg  time="1000"  method="crossfade"  storage="大広間party用.PNG"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 そろそろ21時になる頃だが……何人か揃ってないな。[p]
@@ -1215,14 +1215,14 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/アイドル５.PNG"  width="739"  height="1110"  left="233"  top="29"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/idol５.PNG"  width="644"  height="968"  left="288"  top="19"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 集合時間忘れてるんですかね？[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル３.PNG"  width="832"  height="1247"  left="176"  top="23"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model３.PNG"  width="714"  height="1073"  left="221"  top="9"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 みんなルーズ過ぎるっすよ……[p]
@@ -1236,14 +1236,14 @@ BBQとかにしなくて良かったね。[p]
 
 [_tb_end_text]
 
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 すまんな。頼んだ。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[playbgm  volume="100"  time="1000"  loop="true"  storage="夜と静寂(The_night_and_quiet).mp3"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="The_night_and_quiet.mp3"  ]
 [bg  time="1000"  method="crossfade"  storage="中庭夜１.PNG"  ]
 [tb_start_text mode=1 ]
 #
@@ -1259,7 +1259,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家４.PNG"  width="729"  height="1097"  left="231"  top="39"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 あ、もしかして時間！[p]
@@ -1274,7 +1274,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 呼びにきてくれたんだよね。[p]
@@ -1300,7 +1300,7 @@ BBQとかにしなくて良かったね。[p]
 ん？[p]
 [_tb_end_text]
 
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家３.PNG"  width="785"  height="1180"  left="222"  top="33"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 何？今の音。[p]
@@ -1333,7 +1333,7 @@ BBQとかにしなくて良かったね。[p]
 あ、別館の裏手かもね。[p]
 [_tb_end_text]
 
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 一応見にいこっか。[p]
@@ -1346,7 +1346,7 @@ BBQとかにしなくて良かったね。[p]
 別館裏手の地面は雨で全体的に湿っていて慎重に歩かないと靴に泥が付きそうだ。[p]
 [_tb_end_text]
 
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 あ、暗くてよく見えないけどあれが言ってたボートかな？[p]

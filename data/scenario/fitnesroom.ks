@@ -5,7 +5,7 @@
 [_tb_end_tyrano_code]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="kitchen_talk.mp3"  ]
-[bg  time="1000"  method="crossfade"  storage="フィットネスルーム.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="fitness_room.PNG"  ]
 [tb_show_message_window  ]
 [popopo  type="sine"  volume="50"  time="20"  octave="0"  frequency="A"  chara="default"  ]
 [tb_start_text mode=1 ]
@@ -16,7 +16,7 @@
 これはちゃんと使ったら結構いい運動になりそうだ。[p]
 [_tb_end_text]
 
-[chara_show  name="モデル"  time="1000"  wait="true"  storage="chara/3/モデル１.PNG"  width="836"  height="1258"  left="189"  top="26"  reflect="false"  ]
+[chara_show  name="モデル"  time="1000"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 どうもっす。[p]
@@ -27,7 +27,7 @@
 
 [_tb_end_text]
 
-[chara_mod  name="モデル"  time="600"  cross="true"  storage="chara/3/モデル３.PNG"  ]
+[chara_mod  name="モデル"  time="600"  cross="true"  storage="chara/3/model２.PNG"  ]
 [tb_start_text mode=1 ]
 こういうのって最悪ハリボテでも番組は成立するじゃないっすか？[p]
 #あなた
@@ -37,7 +37,7 @@
 
 [_tb_end_text]
 
-[chara_mod  name="モデル"  time="600"  cross="true"  storage="chara/3/モデル２.PNG"  ]
+[chara_mod  name="モデル"  time="600"  cross="true"  storage="chara/3/model３.PNG"  ]
 [tb_start_text mode=1 ]
 でも番組が意図して集めた10人の男女で、運命の相手を探すなんてちょっと無理あるっすよね。[p]
 まあ見てる人的には、そういう綺麗事っぽいのが刺さるってのも分かるんすけどね。[p]
@@ -46,7 +46,7 @@
 
 [_tb_end_text]
 
-[chara_mod  name="モデル"  time="600"  cross="true"  storage="chara/3/モデル１.PNG"  ]
+[chara_mod  name="モデル"  time="600"  cross="true"  storage="chara/3/model１.PNG"  ]
 [tb_start_text mode=1 ]
 #モデル
 ああ、そういう人もいると思います。全然否定はしないです。[p]

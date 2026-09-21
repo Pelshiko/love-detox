@@ -19,7 +19,7 @@
 [endif]
 [_tb_end_tyrano_code]
 
-[bg  time="0"  method="crossfade"  storage="全体マップ.PNG"  ]
+[bg  time="0"  method="crossfade"  storage="全体map.PNG"  ]
 [tb_start_tyrano_code]
 [if exp="f.map_first == false"]
 [_tb_end_tyrano_code]
@@ -45,18 +45,18 @@
 [if exp="f.nakaniwa_done == false"]
 [_tb_end_tyrano_code]
 
-[button  storage="nakaniwa.ks"  target=""  graphic="画像ボタン水色.PNG"  width="237"  height="236"  x="713"  y="356"  _clickable_img=""  name="img_2"  ]
+[button  storage="nakaniwa.ks"  target=""  graphic="画像botan水色.PNG"  width="234"  height="226"  x="714"  y="366"  _clickable_img=""  name="img_11"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
-[button  storage="honkan.ks"  target=""  graphic="画像ボタン水色.PNG"  width="213"  height="210"  x="286"  y="82"  _clickable_img=""  name="img_3"  ]
-[button  storage="bekkan1kai.ks"  target=""  graphic="画像ボタン水色.PNG"  width="213"  height="210"  x="767"  y="84"  _clickable_img=""  name="img_5"  ]
+[button  storage="honkan.ks"  target=""  graphic="画像botan水色.PNG"  width="259"  height="251"  x="262"  y="66"  _clickable_img=""  name="img_13"  ]
+[button  storage="bekkan1kai.ks"  target=""  graphic="画像botan水色.PNG"  width="271"  height="262"  x="736"  y="61"  _clickable_img=""  name="img_14"  ]
 [tb_start_tyrano_code]
 [if exp="f.souko_done == false"]
 [_tb_end_tyrano_code]
 
-[button  storage="souko.ks"  target=""  graphic="画像ボタン水色.PNG"  width="114"  height="111"  x="942"  y="279"  _clickable_img=""  name="img_5"  ]
+[button  storage="souko.ks"  target=""  graphic="画像botan水色.PNG"  width="155"  height="150"  x="920"  y="271"  _clickable_img=""  name="img_16"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -65,7 +65,7 @@
 [if exp="f.mizumi_done == false"]
 [_tb_end_tyrano_code]
 
-[button  storage="mizumi.ks"  target=""  graphic="画像ボタン水色.PNG"  width="269"  height="261"  x="236"  y="463"  _clickable_img=""  ]
+[button  storage="mizumi.ks"  target=""  graphic="画像botan水色.PNG"  width="405"  height="393"  x="172"  y="402"  _clickable_img=""  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]

@@ -2,7 +2,7 @@
 
 *start
 
-[bg  time="1000"  method="crossfade"  storage="リビングルーム.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="living_room.PNG"  ]
 [tb_show_message_window  ]
 [popopo  type="sine"  volume="50"  time="20"  octave="0"  frequency="A"  chara="default"  ]
 [tb_start_text mode=1 ]
@@ -11,15 +11,15 @@
 
 [_tb_end_text]
 
-[playbgm  volume="100"  time="1000"  loop="true"  storage="良心が強すぎる泥棒的なBGM.mp3"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="event_BGM.mp3"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 # アイドル
 あー、食べた食べたー！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="747"  height="1123"  left="225"  top="14"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 いやあ、なんて言うか……【アイドル】さんって結構食べるっすね……[p]
@@ -27,41 +27,41 @@
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 そうですか？まあでも普段こんなにご馳走食べることないし、せっかくなら！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 あはは…まあそうっすね。[p]
 
 [_tb_end_text]
 
-[chara_mod  name="モデル"  time="600"  cross="true"  storage="chara/3/モデル２.PNG"  ]
+[chara_mod  name="モデル"  time="600"  cross="true"  storage="chara/3/model２.PNG"  ]
 [tb_start_text mode=1 ]
 俺は体型のこととかあるんで、どうしても考えちゃうっすね。[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 いやぁでも、料理を作る身からすれば、君みたいにガツガツ食べてくれる子を見てると嬉しくなるよ。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 美味しいもの食べただけで褒められるなんて！幸せ〜！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 いやでもかく言う私も少し食べ過ぎてしまったよ。[p]
@@ -69,14 +69,14 @@
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 はい！賛成です！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 ま、多少動かないと午後眠くなっちゃうかもっすね。[p]
@@ -89,7 +89,7 @@
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="湖１.PNG"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 それにしても三日間晴れ続きですねー！[p]
@@ -97,7 +97,7 @@
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 番組的にもラッキーでしょうね。[p]
@@ -105,7 +105,7 @@
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 それにしてもここの湖はやはりいつ見ても美しいね。[p]
@@ -113,21 +113,21 @@
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 ここ、別館の近くを通ってる川がそのまま流れ込んでるんすよねえ。[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 そうなんですね！知らなかった！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 じゃあせっかくだし、上流に向かって歩いていこうか。[p]
@@ -139,28 +139,28 @@
 うん。[p]
 [_tb_end_text]
 
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 質問なんすけど、みんな結構散歩とかするんすか？[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 たまに！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人２.PNG"  width="706"  height="1061"  left="255"  top="35"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 私もたまにってくらいかな。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 散歩する時って目的地決めます？[p]
@@ -184,7 +184,7 @@
 決めるかな……[p]
 [_tb_end_text]
 
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 私も同じだ。[p]
@@ -192,7 +192,7 @@
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/アイドル５.PNG"  width="707"  height="1062"  left="241"  top="22"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/idol５.PNG"  width="752"  height="1129"  left="246"  top="5"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 私は決めないですかね……[p]
@@ -206,14 +206,14 @@
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model２.PNG"  width="714"  height="1073"  left="234"  top="7"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 でも何も決めてないと、途中で「もう帰る？」ってならないっすか？[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/アイドル４.PNG"  width="786"  height="1175"  left="211"  top="-43"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/idol４.PNG"  width="823"  height="1236"  left="196"  top="-65"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 えー！どっちでも良くないですか！？[p]
@@ -226,7 +226,7 @@
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model２.PNG"  width="714"  height="1073"  left="234"  top="7"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 まあそこ気にならないならいいんすかね。[p]
@@ -253,14 +253,14 @@
 決めないかな……[p]
 [_tb_end_text]
 
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 私もです！[p]
 
 [_tb_end_text]
 
-[chara_mod  name="アイドル"  time="600"  cross="true"  storage="chara/7/アイドル５.PNG"  ]
+[chara_mod  name="アイドル"  time="600"  cross="true"  storage="chara/7/idol５.PNG"  ]
 [tb_start_text mode=1 ]
 目的地を決めたら散歩じゃなくなる感じってしないですか！？[p]
 [_tb_end_text]
@@ -271,14 +271,14 @@
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 私はその時に行きたい場所を決めて、そこまでのんびり歩きたいね。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 俺もっすね。[p]
@@ -286,7 +286,7 @@
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 それがいいんじゃないですか！[p]
@@ -308,14 +308,14 @@
 [s  ]
 *jamp1
 
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 いやまあ、参考になったっす。[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 何の参考に！？[p]
@@ -324,21 +324,21 @@
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
 [bg  time="1000"  method="crossfade"  storage="中庭昼１.PNG"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 それより君達、意中の相手はもう決まったのかな？[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 何ですか急に！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 そりゃこんな番組に出てるんだ。気になる相手がそろそろできてもおかしくないだろう？[p]
@@ -361,7 +361,7 @@
 気になる相手はいるよ。[p]
 [_tb_end_text]
 
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/アイドル４.PNG"  width="774"  height="1164"  left="188"  top="-45"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/idol４.PNG"  width="823"  height="1236"  left="196"  top="-65"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 えー！素敵です！[p]
@@ -374,7 +374,7 @@
 こんなとこで言えないよ……[p]
 [_tb_end_text]
 
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 【アイドル】、相手が誰か聞くなんて野暮だ。[p]
@@ -382,14 +382,14 @@
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 私も気になる人だったら……います！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 なんだ、いるんじゃないか（笑）[p]
@@ -402,7 +402,7 @@
 ターゲットって……物騒だな……[p]
 [_tb_end_text]
 
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model２.PNG"  width="714"  height="1073"  left="234"  top="7"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 俺もほぼいきたい子は決まってるかな。[p]
@@ -415,7 +415,7 @@
 「いきたい」っていうのはどうだろう……[p]
 [_tb_end_text]
 
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 へえ〜。意外とみんな決めるの早いんですね！[p]
@@ -443,14 +443,14 @@
 
 [_tb_end_text]
 
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/アイドル５.PNG"  width="710"  height="1067"  left="233"  top="9"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/idol５.PNG"  width="752"  height="1129"  left="246"  top="5"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 なーんだ、まだなんですね〜[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 人それぞれのペースってものがあるから気にするな。[p]
@@ -459,14 +459,14 @@
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 私は気になる人だったら……います！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 なんだ、いるんじゃないか（笑）[p]
@@ -479,7 +479,7 @@
 ターゲットって……物騒だな……[p]
 [_tb_end_text]
 
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model２.PNG"  width="714"  height="1073"  left="234"  top="7"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 俺もほぼいきたい子は決まってるかな。[p]
@@ -492,7 +492,7 @@
 「いきたい」っていうのはどうだろう……[p]
 [_tb_end_text]
 
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 へえ〜。意外と決めてる人多いんですね！[p]
@@ -514,7 +514,7 @@
 [s  ]
 *jamp2
 
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人２.PNG"  width="726"  height="1089"  left="222"  top="39"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人２.PNG"  width="665"  height="1001"  left="260"  top="52"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 誰が最初に鐘を鳴らすことになるかな。[p]
@@ -528,7 +528,7 @@
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 あれ！川辺に何かあります！[p]
@@ -541,8 +541,8 @@
 そう言うと【アイドル】は別館の裏手へ走り出した。[p]
 [_tb_end_text]
 
-[bg  time="1000"  method="crossfade"  storage="川沿いボート.PNG"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[bg  time="1000"  method="crossfade"  storage="川沿bort.PNG"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 これ……ボートです！[p]
@@ -554,27 +554,27 @@
 ほんとだ。[p]
 [_tb_end_text]
 
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人２.PNG"  width="726"  height="1089"  left="222"  top="39"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 ボートとオールがセットで準備してあるね。ってことは……[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 そっすね。あの川をボートで渡っていけば湖に辿り着く。[p]
 
 [_tb_end_text]
 
-[chara_mod  name="モデル"  time="600"  cross="true"  storage="chara/3/モデル３.PNG"  ]
+[chara_mod  name="モデル"  time="600"  cross="true"  storage="chara/3/model２.PNG"  ]
 [tb_start_text mode=1 ]
 誰かが既に告白の準備をしてる……ってとこっすかね。[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 もうですか！？すごい！[p]
@@ -586,21 +586,21 @@
 どうかな……誰かが川下りをして遊ぼうとしてるだけかも。[p]
 [_tb_end_text]
 
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/アイドル４.PNG"  width="784"  height="1173"  left="200"  top="-50"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/idol４.PNG"  width="823"  height="1236"  left="196"  top="-65"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 誰がそんなことするんですか！みんな大人ですよ！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人２.PNG"  width="665"  height="1001"  left="260"  top="52"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 まあ告白の期限はないし、もう決意した人がいてもおかしくないだろうね。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/アイドル５.PNG"  width="709"  height="1064"  left="222"  top="20"  reflect="false"  ]
+[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/idol５.PNG"  width="752"  height="1129"  left="246"  top="5"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 うわー誰なんだろう！[p]
@@ -613,7 +613,7 @@
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="752"  height="1129"  left="203"  top="24"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 まあそうっすね。[p]

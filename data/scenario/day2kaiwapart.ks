@@ -23,7 +23,7 @@
 [bg  time="1000"  method="crossfade"  storage="寝室朝.PNG"  ]
 [tb_show_message_window  ]
 [popopo  type="sine"  volume="50"  time="20"  octave="0"  frequency="A"  chara="default"  ]
-[playbgm  volume="100"  time="1000"  loop="true"  storage="早朝の白い雲.mp3"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="morning_music.mp3"  ]
 [tb_start_text mode=1 ]
 二日目の朝が来た。[p]
 窓の方から小鳥のさえずりが聞こえる。[p]

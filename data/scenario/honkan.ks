@@ -8,12 +8,12 @@
 [_tb_end_tyrano_code]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="光風.mp3"  ]
-[bg  time="1000"  method="crossfade"  storage="大広間マップ.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="大広間map.PNG"  ]
 [tb_start_tyrano_code]
 [if exp="f.oohiroma2_done == false"]
 [_tb_end_tyrano_code]
 
-[button  storage="oohiroma2.ks"  target=""  graphic="画像ボタン水色.PNG"  width="234"  height="226"  x="516"  y="219"  _clickable_img=""  name="img_2"  ]
+[button  storage="oohiroma2.ks"  target=""  graphic="画像botan水色.PNG"  width="353"  height="341"  x="456"  y="160"  _clickable_img=""  name="img_4"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -22,7 +22,7 @@
 
 [_tb_end_tyrano_code]
 
-[button  storage="map.ks"  target=""  graphic="画像ボタン水色.PNG"  width="133"  height="129"  x="562"  y="569"  _clickable_img=""  ]
+[button  storage="map.ks"  target=""  graphic="画像botan水色.PNG"  width="190"  height="184"  x="533"  y="545"  _clickable_img=""  ]
 [tb_start_tyrano_code]
 
 [_tb_end_tyrano_code]

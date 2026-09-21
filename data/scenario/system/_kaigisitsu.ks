@@ -1,5 +1,5 @@
 [preload  storage="./data/bgimage/会議室.PNG"  ]
-[preload  storage="./data/fgimage/chara/7/アイドル５.PNG"  ]
-[preload  storage="./data/fgimage/chara/7/アイドル４.PNG"  ]
+[preload  storage="./data/fgimage/chara/7/idol５.PNG"  ]
+[preload  storage="./data/fgimage/chara/7/idol４.PNG"  ]
 [preload  storage="./data/fgimage/chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  ]
 [return]

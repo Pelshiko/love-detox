@@ -1,5 +1,5 @@
 [preload  storage="./data/bgimage/中庭昼１.PNG"  ]
-[preload  storage="./data/fgimage/chara/5/ダンサー２.PNG"  ]
-[preload  storage="./data/fgimage/chara/5/ダンサー１.PNG"  ]
-[preload  storage="./data/fgimage/chara/5/ダンサー３.PNG"  ]
+[preload  storage="./data/fgimage/chara/5/dancer２.PNG"  ]
+[preload  storage="./data/fgimage/chara/5/dancer1.PNG"  ]
+[preload  storage="./data/fgimage/chara/5/dancer３.PNG"  ]
 [return]

@@ -16,7 +16,7 @@
 ここを一番使うことになるのはやはり【料理人】だろう。[p]
 [_tb_end_text]
 
-[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 お、君は[emb exp=f.player_name]だね。[p]

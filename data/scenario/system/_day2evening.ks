@@ -1,6 +1,6 @@
-[preload  storage="./data/bgimage/リビングルーム.PNG"  ]
+[preload  storage="./data/bgimage/living_room.PNG"  ]
 [preload  storage="./data/fgimage/chara/2/医師１.PNG"  ]
-[preload  storage="./data/fgimage/chara/3/モデル２.PNG"  ]
+[preload  storage="./data/fgimage/chara/3/model２.PNG"  ]
 [preload  storage="./data/fgimage/chara/6/料理人２.PNG"  ]
 [preload  storage="./data/fgimage/chara/1/女優７.PNG"  ]
 [preload  storage="./data/fgimage/chara/6/料理人１.PNG"  ]

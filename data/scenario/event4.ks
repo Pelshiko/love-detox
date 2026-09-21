@@ -3,7 +3,7 @@
 *start
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="kitchen_talk.mp3"  ]
-[bg  time="1000"  method="crossfade"  storage="リビングルーム.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="living_room.PNG"  ]
 [tb_show_message_window  ]
 [popopo  type="sine"  volume="50"  time="20"  octave="0"  frequency="A"  chara="default"  ]
 [tb_start_text mode=1 ]
@@ -158,7 +158,7 @@ f.event4_character = topCharacters[randomIndex];
 *model_event
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="アマオト.mp3"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="836"  height="1258"  left="189"  top="26"  reflect="false"  ]
+[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 どもっす。[p]
@@ -280,7 +280,7 @@ f.event4_character = topCharacters[randomIndex];
 *dancer_event
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="アマオト.mp3"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 おいっす！[p]
@@ -422,7 +422,7 @@ f.event4_character = topCharacters[randomIndex];
 
 [_tb_end_text]
 
-[chara_mod  name="アイドル"  time="600"  cross="true"  storage="chara/7/アイドル５.PNG"  ]
+[chara_mod  name="アイドル"  time="600"  cross="true"  storage="chara/7/idol５.PNG"  ]
 [tb_start_text mode=1 ]
 私小さい頃からずっとアイドルに憧れてたんです。[p]
 だからただずっと仕事一筋で、あんまり愛とか恋とかよく分からなかったんです。[p]

@@ -1,2 +1,2 @@
-[preload  storage="./data/bgimage/大広間マップ.PNG"  ]
+[preload  storage="./data/bgimage/大広間map.PNG"  ]
 [return]

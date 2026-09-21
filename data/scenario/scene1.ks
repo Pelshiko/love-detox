@@ -50,7 +50,7 @@
 本当に来ちゃったな……[p]
 [_tb_end_text]
 
-[chara_show  name="プロデューサー"  time="1000"  wait="true"  storage="chara/10/プロデューサー１.PNG"  width="773"  height="1163"  left="217"  top="54"  reflect="false"  ]
+[chara_show  name="プロデューサー"  time="1000"  wait="true"  storage="chara/10/puroducer.PNG"  width="678"  height="1019"  left="302"  top="42"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #プロデューサー
 こっちです。皆さん集まるまで、中で待っててもらうので。[p]
@@ -59,7 +59,7 @@
 [_tb_end_text]
 
 [chara_hide  name="プロデューサー"  time="1000"  wait="true"  pos_mode="true"  ]
-[bg  time="1000"  method="crossfade"  storage="リビングルーム.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="living_room.PNG"  ]
 [tb_start_text mode=1 ]
 #
 恋愛リアリティーショーらしい部屋……という感じだ。[p]
@@ -105,7 +105,7 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="1000"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="1000"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 お、ここで合ってるかな。こんにちは。[p]
@@ -116,42 +116,42 @@
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="1000"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="1000"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 どうもー！こんにちはー！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="1000"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="1000"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 お、こんちは！[p]
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="1000"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="1000"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 こんにちは。初めまして。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="1000"  wait="true"  storage="chara/3/モデル１.PNG"  width="836"  height="1258"  left="189"  top="26"  reflect="false"  ]
+[chara_show  name="モデル"  time="1000"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 どうもっす[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 お、結構揃ってるね。こんにちは。[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="漫画家"  time="1000"  wait="true"  storage="chara/4/漫画家２.PNG"  width="678"  height="1019"  left="274"  top="31"  reflect="false"  ]
+[chara_show  name="漫画家"  time="1000"  wait="true"  storage="chara/4/漫画家２.PNG"  width="678"  height="1019"  left="264"  top="32"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 どうも〜[p]
@@ -172,7 +172,7 @@
 すると先程案内をしてくれたプロデューサーが再びやってきた。[p]
 [_tb_end_text]
 
-[chara_show  name="プロデューサー"  time="1000"  wait="true"  storage="chara/10/プロデューサー１.PNG"  width="732"  height="1106"  left="250"  top="75"  reflect="false"  ]
+[chara_show  name="プロデューサー"  time="1000"  wait="true"  storage="chara/10/puroducer.PNG"  width="678"  height="1019"  left="302"  top="42"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #プロデューサー
 皆さんお集まりいただけましたね。[p]
@@ -199,7 +199,7 @@
 しかしその空気を破るように一人が声を上げた。[p]
 [_tb_end_text]
 
-[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="740"  height="1120"  left="254"  top="38"  reflect="false"  ]
+[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 じゃあ入ってきた順番でいくっていうのはどうだろう。[p]
@@ -236,7 +236,7 @@
 あなたはそこでようやく気が少し楽になった。[p]
 [_tb_end_text]
 
-[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="740"  height="1120"  left="254"  top="38"  reflect="false"  ]
+[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 ありがとう。では今のように順番に挨拶していってもらえるかな？[p]
@@ -264,7 +264,7 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="1000"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="1000"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 初めまして。【医師】です。[p]
@@ -278,7 +278,7 @@
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="1000"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="1000"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 こんにちは！【アイドル】です！[p]
@@ -292,7 +292,7 @@
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="1000"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="1000"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 俺は【ダンサー】！[p]
@@ -307,7 +307,7 @@
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="1000"  wait="true"  storage="chara/8/音楽家１.PNG"  width="810"  height="1218"  left="209"  top="31"  reflect="false"  ]
+[chara_show  name="音楽家"  time="1000"  wait="true"  storage="chara/8/音楽家１.PNG"  width="732"  height="1099"  left="251"  top="36"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 皆さん初めまして、【音楽家】です。[p]
@@ -322,7 +322,7 @@
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="1000"  wait="true"  storage="chara/3/モデル１.PNG"  width="836"  height="1258"  left="189"  top="26"  reflect="false"  ]
+[chara_show  name="モデル"  time="1000"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 どうも。【モデル】っす。[p]
@@ -338,7 +338,7 @@
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #？
 では次は私だな。私は【料理人】。[p]
@@ -384,28 +384,28 @@
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 ありがとう。これで全員回ったかな？[p]
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="1000"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 うん。みたいだね。[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="1000"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 いろんな職業の方々が集められてたんですね！なんか面白いです！[p]
 [_tb_end_text]
 
 [chara_hide  name="アイドル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="235"  top="35"  reflect="false"  ]
+[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 そうだね。それで、これからどうしようか？[p]
@@ -435,7 +435,7 @@
 [_tb_end_text]
 
 [chara_hide  name="女優"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="モデル"  time="300"  wait="true"  storage="chara/3/モデル１.PNG"  width="836"  height="1258"  left="189"  top="26"  reflect="false"  ]
+[chara_show  name="モデル"  time="1000"  wait="true"  storage="chara/3/model１.PNG"  width="707"  height="1063"  left="243"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #モデル
 あ、それだったら俺、まず施設の中を見て回りたいっすね。[p]
@@ -452,7 +452,7 @@
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="ダンサー"  time="300"  wait="true"  storage="chara/5/ダンサー１.PNG"  width="801"  height="1204"  left="227"  top="25"  reflect="false"  ]
+[chara_show  name="ダンサー"  time="1000"  wait="true"  storage="chara/5/dancer1.PNG"  width="744"  height="1118"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ダンサー
 お、いいねー！[p]
@@ -460,7 +460,7 @@
 [_tb_end_text]
 
 [chara_hide  name="ダンサー"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家２.PNG"  width="749"  height="1131"  left="222"  top="17"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家２.PNG"  width="666"  height="1003"  left="250"  top="30"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 ちょっと待って。みんなでもうちょっと話したりするものじゃないの？[p]
@@ -476,7 +476,7 @@
 [_tb_end_text]
 
 [chara_hide  name="漫画家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="料理人"  time="300"  wait="true"  storage="chara/6/料理人１.PNG"  width="731"  height="1101"  left="250"  top="36"  reflect="false"  ]
+[chara_show  name="料理人"  time="1000"  wait="true"  storage="chara/6/料理人１.PNG"  width="653"  height="984"  left="284"  top="49"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #料理人
 まあどうやら賛成票多数ってことで、一旦自由行動にしようか。[p]
@@ -484,7 +484,7 @@
 [_tb_end_text]
 
 [chara_hide  name="料理人"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="アイドル"  time="300"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="726"  height="1093"  left="249"  top="24"  reflect="false"  ]
+[chara_show  name="アイドル"  time="1000"  wait="true"  storage="chara/7/0F411DC0-D4D8-434A-A669-8BFB49FF35D6.PNG"  width="701"  height="1051"  left="256"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アイドル
 はーい！[p]

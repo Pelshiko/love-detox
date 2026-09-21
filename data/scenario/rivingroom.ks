@@ -5,7 +5,7 @@
 [_tb_end_tyrano_code]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="kitchen_talk.mp3"  ]
-[bg  time="1000"  method="crossfade"  storage="リビングルーム.PNG"  ]
+[bg  time="1000"  method="crossfade"  storage="living_room.PNG"  ]
 [tb_show_message_window  ]
 [popopo  type="sine"  volume="50"  time="20"  octave="0"  frequency="A"  chara="default"  ]
 [tb_start_text mode=1 ]
