@@ -218,9 +218,9 @@
 初めまして。名前は……[p]
 [_tb_end_text]
 
-[edit  left="453"  top="144"  width="329"  height="68"  size="20"  maxchars="200"  name="f.player_name"  reflect="false"  ]
-[tb_image_show  time="1000"  storage="default/名前を入力してください.PNG"  width="624"  height="205"  x="304"  y="-36"  _clickable_img=""  name="img_50"  ]
-[button  storage=""  target="*name_ok"  graphic="おkボタン.PNG"  width="210"  height="90"  x="505"  y="230"  _clickable_img=""  name="img_51"  ]
+[tb_image_show  time="1000"  storage="default/namaewonyuryokusitekudasai.PNG"  width="668"  height="221"  x="264"  y="-32"  _clickable_img=""  name="img_50"  ]
+[edit  left="453"  top="144"  width="329"  height="68"  size="30"  maxchars="200"  name="f.player_name"  reflect="false"  ]
+[button  storage=""  target="*name_ok"  graphic="ok_botan.PNG"  width="262"  height="110"  x="477"  y="256"  _clickable_img=""  name="img_51"  ]
 [s  ]
 *name_ok
 

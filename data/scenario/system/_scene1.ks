@@ -1,5 +1,5 @@
 [preload  storage="./data/bgimage/gaikan.PNG"  ]
 [preload  storage="./data/bgimage/living_room.PNG"  ]
-[preload  storage="./data/fgimage/default/名前を入力してください.PNG"  ]
+[preload  storage="./data/fgimage/default/namaewonyuryokusitekudasai.PNG"  ]
 [preload  storage="./data/fgimage/chara/6/料理人２.PNG"  ]
 [return]

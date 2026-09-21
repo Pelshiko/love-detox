@@ -22,11 +22,11 @@ LOVE DETOX[p]
 
 
 [tb_image_show  time="1000"  storage="default/タイトル画面.PNG"  width="1536"  height="1024"  name="img_8"  ]
-[tb_image_show  time="1000"  storage="default/タイトルフォント.PNG"  width="1006"  height="334"  x="136"  y="4"  _clickable_img=""  ]
+[tb_image_show  time="1000"  storage="default/タイトルフォント.PNG"  width="1006"  height="334"  x="136"  y="4"  _clickable_img=""  name="img_9"  ]
 *title
 
-[glink  color="black"  text="はじめから"  x="75"  y="370"  size="20"  target="*start"  ]
-[glink  color="black"  text="つづきから"  x="75"  y="470"  size="20"  target="*load"  ]
+[glink  color="btn_21_blue"  text="はじめから"  x="75"  y="370"  size="25"  target="*start"  width=""  height=""  _clickable_img=""  ]
+[glink  color="btn_21_blue"  text="つづきから"  x="77"  y="504"  size="25"  target="*load"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 
 ;-------ボタンが押されたときの処理

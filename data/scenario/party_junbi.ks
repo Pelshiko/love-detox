@@ -625,7 +625,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 アルコールはキリのいいところでスタッフさんに回収されちゃったよ。[p]
@@ -806,7 +806,7 @@ BBQとかにしなくて良かったね。[p]
 ……[p]
 [_tb_end_text]
 
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="821"  height="1233"  left="217"  top="-2"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="771"  height="1158"  left="243"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 ところで、これからの予定は決まってるんだっけ？[p]
@@ -870,7 +870,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="小説家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 ははは、僕もだよ。（笑）[p]
@@ -916,7 +916,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 まあでもこういうのって意外な人が上手かったりするからね。[p]
@@ -931,7 +931,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="モデル"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 まだカラオケセットの準備ができてないんじゃないかな。[p]
@@ -993,7 +993,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="event_BGM.mp3"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 お、準備係だね。（笑）[p]
@@ -1028,7 +1028,7 @@ BBQとかにしなくて良かったね。[p]
 
 [_tb_end_text]
 
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 どうかした？[p]
@@ -1052,7 +1052,7 @@ BBQとかにしなくて良かったね。[p]
 いやいや、本心だよ本心……[p]
 [_tb_end_text]
 
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 うん、ナイスフォロー。[p]
@@ -1067,7 +1067,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 どうだろうね。[p]
@@ -1252,7 +1252,7 @@ BBQとかにしなくて良かったね。[p]
 あの、お取り込み中申し訳ないんだけど……[p]
 [_tb_end_text]
 
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 お、どうしたの？[p]
@@ -1266,7 +1266,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 あ、本当だ。もう21時になってたんだね。[p]
@@ -1307,7 +1307,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 何だろうね。あっちの方からしたよ。[p]
@@ -1320,7 +1320,7 @@ BBQとかにしなくて良かったね。[p]
 二人とあなたは別館に近づいてしばらく付近を歩いてみたが怪しいものは見当たらない。[p]
 [_tb_end_text]
 
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 何だったんだろうね？[p]
@@ -1353,7 +1353,7 @@ BBQとかにしなくて良かったね。[p]
 [_tb_end_text]
 
 [chara_hide  name="音楽家"  time="300"  wait="true"  pos_mode="true"  ]
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="874"  height="1310"  left="200"  top="11"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師１.PNG"  width="743"  height="1112"  left="249"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 そんな気はするけど、何だか様子がおかしいね。[p]
@@ -1393,14 +1393,14 @@ BBQとかにしなくて良かったね。[p]
 【女優】……さん……？[p]
 [_tb_end_text]
 
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師４.PNG"  width="809"  height="1212"  left="220"  top="9"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師３.PNG"  width="688"  height="1035"  left="266"  top="28"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 あれは……！[p]
 [_tb_end_text]
 
 [chara_hide  name="医師"  time="1000"  wait="true"  pos_mode="true"  ]
-[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家４.PNG"  width="785"  height="1180"  left="193"  top="30"  reflect="false"  ]
+[chara_show  name="音楽家"  time="300"  wait="true"  storage="chara/8/音楽家４.PNG"  width="674"  height="1012"  left="280"  top="32"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #音楽家
 きゃあああ！[p]
@@ -1418,7 +1418,7 @@ BBQとかにしなくて良かったね。[p]
 一体これは……[p]
 [_tb_end_text]
 
-[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="793"  height="1192"  left="231"  top="16"  reflect="false"  ]
+[chara_show  name="医師"  time="300"  wait="true"  storage="chara/2/医師２.PNG"  width="715"  height="1075"  left="270"  top="16"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #医師
 死んでいる……[p]
